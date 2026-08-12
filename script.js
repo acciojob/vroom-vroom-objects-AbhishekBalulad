@@ -18,7 +18,7 @@ Sportscar.prototype.gettopspeed=function(){
 }
 
 let car=new Sportscar("bmw","24/26","240")
-console.log(car.getMakeModel())
+console.log(car.getMakeModel
 
 // Do not change the code below
 window.Car = Car;
